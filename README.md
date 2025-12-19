@@ -1,16 +1,31 @@
-## Hi there 👋
+# 👋 Olá, eu sou o Thiago Costa do Carmo
 
-<!--
-**ThiagoCostaC/ThiagoCostaC** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Estudante de Engenharia Elétrica – UFJF  
+🤖 Habilitação em Robótica e Automação Comercial  
+📊 Interesse em Inteligência Artificial, Análise de Dados e Automação Inteligente
 
-Here are some ideas to get you started:
+## 🚀 Tecnologias que aprende no Curso de Ciência de Dados
+- Python
+- Pandas
+- NumPy
+- Scikit-learn
+- Git e GitHub
+- SQL
+- Postgres
+-MongoBD 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 📊 Projetos em destaque
+- 🔹 Análise de Dados com Python
+- 🔹 Modelos básicos de Machine Learning
+- 🔹 Projetos acadêmicos e estudos práticos
+
+👉 Veja meus repositórios abaixo ou no link:  
+🔗 https://github.com/ThiagoCostaC
+
+---
+
+## 📫 Contato
+- 📧 Email: thiagocosta.carmo@estudante.ufjf.br
+- 💼 LinkedIn:www.linkedin.com/in/thiagocostaengenhariaelétrica
