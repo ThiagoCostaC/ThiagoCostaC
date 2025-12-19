@@ -12,7 +12,7 @@
 - Git e GitHub
 - SQL
 - Postgres
--MongoBD 
+- MongoBD 
 
 ---
 
